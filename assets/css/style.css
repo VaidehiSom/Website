@@ -157,7 +157,8 @@ body {
   }
   
   #header #logo h1 span {
-    color: #b8439a;
+    color: #27445f;
+    /* color: #b8439a; */
   }
   
   #header #logo h1 a,
@@ -484,6 +485,7 @@ body {
   
   #hero:before {
     content: "";
+    /* background: rgba(38, 155, 23, 0.8); */
     background: rgba(6, 12, 34, 0.8);
     position: absolute;
     bottom: 0;
@@ -521,7 +523,8 @@ body {
   }
   
   #hero h1 span {
-    color: #b8439a;
+    color: #207c2c;
+    /* color: #b8439a; */
   }
   
   @media (max-width: 991px) {
